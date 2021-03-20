@@ -22,7 +22,7 @@ imagecodecs==2020.2.18
 imageio==2.8.0
 imgaug==0.2.6
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 Keras==2.3.1
 Keras-Applications==1.0.8
